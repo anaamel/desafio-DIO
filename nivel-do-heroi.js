@@ -1,0 +1,1 @@
+const nomeHeroi = 0
